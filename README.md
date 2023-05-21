@@ -1,10 +1,10 @@
 # better-chatbot-than-chatgpt
-- Brainstorm possible research/engineering candidates that could let us train better chatbots than ChatGPT/GPT4
+- Brainstorm possible research/engineering candidates that could let us train better chatbots than ChatGPT/GPT4 in selected aspects.
 
-## WIP slides as of 2023/05/21
+## Slides as of 2023/05/21
 - See [brainstorm_better_chatbot_than_chatgpt_v1 slides here](brainstorm_better_chatbot_than_chatgpt_v1.pdf)
 
-## Agenda as of 2023/05/21
+## Agenda 2023/05/21
 
 * Solid foundation pretrained models
     * [Llama](https://arxiv.org/abs/2302.13971) & [ChatGLM](https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md)
