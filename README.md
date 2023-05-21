@@ -1,11 +1,13 @@
 # better-chatbot-than-chatgpt
 - Brainstorm possible research/engineering candidates that could let us train better chatbots than ChatGPT/GPT4
 
+## WIP slides as of 2023/05/21
+- See [brainstorm_better_chatbot_than_chatgpt_v1 slides here](brainstorm_better_chatbot_than_chatgpt_v1.pdf)
 
-## Tentative Agenda as of 2023/05/16
+## Agenda as of 2023/05/21
 
 * Solid foundation pretrained models
-    * [Llama](https://arxiv.org/abs/2302.13971') & [ChatGLM](https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md)
+    * [Llama](https://arxiv.org/abs/2302.13971) & [ChatGLM](https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md)
     * [MPT-7b](https://www.mosaicml.com/blog/mpt-7b) & [RedPajama](https://www.together.xyz/blog/redpajama)?
 * Get close to ChatGPT by “behavioral cloning” or self-align? 
     * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
@@ -36,4 +38,5 @@
 * More modalities than GPT4?
     * [HuggingGPT](https://arxiv.org/abs/2303.17580)
     * [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
+    * [Visual-GLM6B](https://github.com/THUDM/VisualGLM-6B)
 
