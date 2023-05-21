@@ -18,9 +18,6 @@
     * Retrieval in LM training: [WebGPT](https://arxiv.org/abs/2112.09332) and [Sparrow](https://arxiv.org/abs/2209.14375)
     * [Augmented LM](https://arxiv.org/abs/2302.07842) (retrieval outside LM training)
         * E.g. [Langchain](https://python.langchain.com/en/latest/index.html), or [DPR](https://github.com/facebookresearch/DPR)
-* [Weak] More aligned to human preference?
-    * [Character.ai](Character.ai)
-    * Tutor like [GPTutor](https://arxiv.org/abs/2305.01863)
 * Longer context than GPT4?
     * [AliBi](https://arxiv.org/abs/2108.12409)
     * [HWFA](https://spaces.ac.cn/archives/9603) (chinese only, by Su Jianlin)
@@ -39,4 +36,4 @@
     * [HuggingGPT](https://arxiv.org/abs/2303.17580)
     * [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
     * [Visual-GLM6B](https://github.com/THUDM/VisualGLM-6B)
-
+* Very very important, evaluation!
